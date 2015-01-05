@@ -1,0 +1,3 @@
+[submodule "TypeToPaste"]
+	path = TypeToPaste
+	url = https://github.com/alexradzin/TypeToPaste.git
